@@ -85,8 +85,8 @@ HostelX RGIPT is a **hostel management system** designed to streamline **room al
 ---
 
 ## 📩 Contact & Support  
-📧 **Email:** [your-email@example.com](mailto:bhartirounak@gmail.com)  
-🔗 **GitHub:** [Your GitHub Profile](https://github.com/rounakbharti)  
+📧 **Email:** [bhartirounak@gmail.com](mailto:bhartirounak@gmail.com)  
+🔗 **GitHub:** [https://github.com/rounakbharti](https://github.com/rounakbharti)  
 🌐 **Project Repository:** [HostelX RGIPT](https://github.com/rounakbharti/HostelX-RGIPT)  
 
 💡 *For any issues, feel free to open a GitHub issue!* 🚀  
