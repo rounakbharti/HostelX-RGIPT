@@ -1,22 +1,52 @@
 # **HostelX RGIPT - Hostel Management System**  
 
+## **Overview**  
+HostelX RGIPT is a **hostel management system** designed to streamline **room allocation, complaint tracking, leave requests, and announcements**, ensuring a **secure and efficient** experience for students and administrators. 
+
 ## **Demo Screenshots**  
 
-### **Home Page**
+
 ![Home Page](demo/image1.png)  
 
-### **Room Allocation**
+
 ![Room Allocation](demo/image2.png)  
 
-### **Complaint Tracking**
+
 ![Complaint Tracking](demo/image3.png)  
+![Home Page](demo/image4.png)  
+
+
+![Room Allocation](demo/image5.png)  
+
+
+![Complaint Tracking](demo/image6.png)  
+![Home Page](demo/image7.png)  
+
+
+![Room Allocation](demo/image8.png)  
+
+
+![Complaint Tracking](demo/image9.png)  
+![Home Page](demo/image10.png)  
+
+
+![Room Allocation](demo/image11.png)  
+
+
+![Complaint Tracking](demo/image12.png)  
+![Home Page](demo/image13.png)  
+
+
+![Room Allocation](demo/image14.png)  
+
+
+![Complaint Tracking](demo/image15.png)  
 
 *(Make sure the images are inside a `demo/` folder in your repository.)*  
 
 ---
 
-## **Overview**  
-HostelX RGIPT is a **hostel management system** designed to streamline **room allocation, complaint tracking, leave requests, and announcements**, ensuring a **secure and efficient** experience for students and administrators.  
+ 
 
 ## **Features**  
 ✅ **Room Allocation** – Assign and manage hostel rooms efficiently.  
