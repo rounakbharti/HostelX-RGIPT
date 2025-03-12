@@ -41,7 +41,7 @@ HostelX RGIPT is a **hostel management system** designed to streamline **room al
 
 
 
-*(Make sure the images are inside a `demo/` folder in your repository.)*  
+
 
 ---
 
